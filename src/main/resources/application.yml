@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: leetcode
+  main:
+    web-application-type: none
